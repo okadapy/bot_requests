@@ -1,11 +1,11 @@
 import enum
 
-TOKEN = "5693917053:AAE1Dvrni97ENKfHe9DgaMRn16kLAIoJhUs"
+TOKEN = ""
 SUPER_USERS = [
-    1134647131,
+    123456789,
 ]
 
-POSTS_CHAT = -1001954088938
+POSTS_CHAT = 123456789
 
 
 class Notify(enum.IntEnum):
